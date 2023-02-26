@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="110.66602"
+   height="61.199215"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="match_game.svg">
+  <defs />
+  <sodipodi:namedview
+     inkscape:zoom="2.6221876"
+     inkscape:cx="8.4647986"
+     inkscape:cy="38.643359"
+     inkscape:window-width="1754"
+     inkscape:window-height="1057"
+     inkscape:window-x="158"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <path
+     d="M 17.666016,0 0,30.599606 17.666016,61.199216 h 35.33398 l 2.33399,-4.04101 2.33203,4.04101 h 35.33398 L 110.66602,30.599606 92.999996,0 H 57.666016 L 55.333986,4.041016 52.999996,0 Z m 4.666016,8.082032 h 26.000004 l 2.33398,4.042964 -10.66602,18.47461 10.66602,18.47461 -2.33398,4.04102 H 22.332032 l -13,-22.51563 z m 40.000004,0 h 26 l 13.000004,22.517574 -13.000004,22.51563 h -26 l -2.33204,-4.03906 10.66602,-18.47657 -10.66797,-18.47656 z m -7,12.125004 6,10.39257 -6,10.39258 -6,-10.39258 z" />
+</svg>

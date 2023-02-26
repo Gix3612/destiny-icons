@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="lightfall.svg">
+  <defs />
+  <sodipodi:namedview
+     inkscape:zoom="0.36260102"
+     inkscape:cx="657.01603"
+     inkscape:cy="184.01988"
+     inkscape:window-width="1754"
+     inkscape:window-height="1057"
+     inkscape:window-x="158"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <path
+     d="M 500,150 379.81446,329 h 240.37109 z m 0.58985,237 a 50,50 0 0 0 -49.94727,50 50,50 0 0 0 50,50 50,50 0 0 0 50,-50 50,50 0 0 0 -50,-50 50,50 0 0 0 -0.0527,0 z M 310.49414,432.24219 209.27149,583 h 231.95703 c 18.23344,0 26.37217,-22.89275 12.23047,-34.40234 z m 379.46485,0.67578 -142.13282,115.67969 C 533.68445,560.10737 541.82311,583 560.05664,583 H 790.72852 Z M 246.9707,646 c -50.00289,0 -96.72052,24.90445 -124.59375,66.41797 L 30,850 H 465.64258 V 666 c 0,-11.04569 -8.95431,-20 -20,-20 h -83.5 c -14.63555,0 -26.5,11.86445 -26.5,26.5 V 780 h -65 v -99.79688 a 117.50598,117.50598 0 0 1 3.86914,-29.90429 L 275.64258,646 Z m 308.67188,0 c -11.04569,0 -20,8.95431 -20,20 v 48 h 210 v 67 h -210 v 69 H 970 L 877.62305,712.41797 C 849.74983,670.90445 803.03219,646 753.0293,646 Z" />
+</svg>

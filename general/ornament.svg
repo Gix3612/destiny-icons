@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="290"
+   height="290"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ornament.svg">
+  <defs />
+  <sodipodi:namedview
+     inkscape:zoom="1.7630527"
+     inkscape:cx="100.69418"
+     inkscape:cy="135.43154"
+     inkscape:window-width="1754"
+     inkscape:window-height="1057"
+     inkscape:window-x="158"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <path
+     d="M 145,0 A 75,75 0 0 0 70.15625,70.158203 75,75 0 0 0 0,145 75,75 0 0 0 69.980469,219.83203 V 205.79102 A 61,61 0 0 1 14,145 61,61 0 0 1 70,84.207031 V 103.43359 A 42,42 0 0 0 34,145 42,42 0 0 0 69.980469,186.56641 V 172.34375 A 28,28 0 0 1 48,145 28,28 0 0 1 70,117.6543 V 215 a 75,75 0 0 0 75,75 75,75 0 0 0 74.84375,-70.15625 h -0.0234 A 75,75 0 0 0 290,145 75,75 0 0 0 219.84375,70.15625 v 0.02344 A 75,75 0 0 0 145,0 Z m 0,14 a 61,61 0 0 1 61,61 v 98 H 187 V 76 A 42,42 0 0 0 145,34 42,42 0 0 0 144.9668,34 42,42 0 0 0 103,76 a 42,42 0 0 0 0,0.0332 V 214 a 42,42 0 0 0 42,42 42,42 0 0 0 41.56641,-36 h 19.22656 A 61,61 0 0 1 145,276 61,61 0 0 1 84,215 V 75 a 61,61 0 0 1 61,-61 z m 0,34 a 28,28 0 0 1 27.34766,22 H 117.65039 A 28,28 0 0 1 145,48 Z m -28,36 h 56 v 19 h -56 z m 103,0.207031 A 61,61 0 0 1 276,145 61,61 0 0 1 215,206 h -98 v -19 h 97 a 42,42 0 0 0 42,-42 42,42 0 0 0 0,-0.0332 42,42 0 0 0 -36,-41.53516 z M 117,117 h 56 v 56 h -56 z m 103,0.65234 A 28,28 0 0 1 242,145 28,28 0 0 1 220,172.3457 Z M 117.6543,220 h 54.69336 A 28,28 0 0 1 145,242 28,28 0 0 1 117.6543,220 Z" />
+</svg>

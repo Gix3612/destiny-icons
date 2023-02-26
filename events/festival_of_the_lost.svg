@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="204"
+   height="204"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="festival_of_the_lost.svg">
+  <defs />
+  <sodipodi:namedview
+     inkscape:zoom="2.313695"
+     inkscape:cx="123.61179"
+     inkscape:cy="133.85742"
+     inkscape:window-width="1754"
+     inkscape:window-height="1057"
+     inkscape:window-x="158"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <path
+     d="M 102,14.25 92.279296,34.5 H 111.7207 Z M 94.595215,40.92627 A 64.5,64.5 0 0 0 37.5,105 64.5,64.5 0 0 0 47.375977,139.29931 L 59.359863,114.33252 50.027344,105 76.590821,78.43652 Z m 14.809575,0.002 18.00439,37.50879 26.56348,26.56348 -9.33252,9.33252 11.98388,24.96679 A 64.5,64.5 0 0 0 166.5,105 64.5,64.5 0 0 0 109.40479,40.92773 Z M 102,81 a 23.999998,23.999998 0 0 0 -24,24 23.999998,23.999998 0 0 0 24,24 23.999998,23.999998 0 0 0 24,-24 23.999998,23.999998 0 0 0 -24,-24 z M 20.25,92.2793 0,102 l 20.25,9.7207 z m 163.5,0 v 19.4414 L 204,102 Z M 101.91504,93.75 a 11.25,11.25 0 0 1 0.085,0 11.25,11.25 0 0 1 11.25,11.25 A 11.25,11.25 0 0 1 102,116.25 11.25,11.25 0 0 1 90.75,105 11.25,11.25 0 0 1 101.91504,93.75 Z M 74.441894,129.41455 58.439942,162.75 H 145.56006 L 129.5581,129.41455 102,156.97266 Z" />
+</svg>
